@@ -1,0 +1,11 @@
+{
+  "name": "react-clone",
+  "version": "1.0.0",
+  "description": "Deep dive into react by building small clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Trent Duncan",
+  "license": "ISC"
+}
